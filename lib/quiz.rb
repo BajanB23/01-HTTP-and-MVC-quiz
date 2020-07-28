@@ -4,6 +4,7 @@
 def http_stands_for
   # TODO: Return a `string` with the full meaning of the acronym `HTTP`.
   # Hint, the format should look like this:  Hxxx-Txxx Txxx Pxxx
+  # comment for commit
   return 'Hyper-Text Transfer Protocol'
 end
 
